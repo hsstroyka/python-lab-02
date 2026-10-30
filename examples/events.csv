@@ -1,0 +1,7 @@
+timestamp,level,source,message
+2026-04-01T12:00:00Z,INFO,app,Запуск
+2026-04-01T12:01:00Z,ERROR,server,Ошибка сервера
+2026-04-01T12:02:00Z,CRITICAL,server,Сбой
+2026-04-01T12:03:00Z,WARNING,app,Предупреждение
+
+

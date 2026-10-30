@@ -1,0 +1,4 @@
+{"timestamp":"2026-04-01T12:00:00Z","level":"INFO","source":"сайт","message":"Начало работы"}
+{"timestamp":"2026-04-01T12:01:00Z","level":"ERROR","source":"база","message":"Не удалось подключиться"}
+{"timestamp":"2026-04-01T12:02:00Z","level":"CRITICAL","source":"база","message":"Повторная ошибка"}
+{"timestamp":"2026-04-01T12:03:00Z","level":"WARNING","source":"сайт","message":"Медленный ответ"}
